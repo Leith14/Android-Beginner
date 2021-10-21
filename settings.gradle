@@ -1,3 +1,4 @@
 rootProject.name = "My First App"
 include ':app'
 include ':mybutton'
+include ':myedittext'
