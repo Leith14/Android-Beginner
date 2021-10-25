@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/mybutton" />
             <option value="$PROJECT_DIR$/myedittext" />
+            <option value="$PROJECT_DIR$/myimageview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
