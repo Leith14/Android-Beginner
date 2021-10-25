@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/mybutton" />
             <option value="$PROJECT_DIR$/myedittext" />
             <option value="$PROJECT_DIR$/myimageview" />
+            <option value="$PROJECT_DIR$/myprogressbar" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
